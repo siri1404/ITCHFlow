@@ -4,7 +4,7 @@ A high-performance C++ service for ingesting, normalizing, and throttling tick-l
 
 ## Dashboard Interface
 
-TickShaper includes a modern web dashboard for real-time monitoring and control:
+ITCHFlow includes a modern web dashboard for real-time monitoring and control:
 
 ### Main Dashboard View
 ![TickShaper Dashboard](public/Screenshot%202025-07-27%20234920.png)
@@ -78,7 +78,7 @@ brew install cmake zmq
 ```bash
 # Clone and build
 git clone <repository>
-cd tickshaper/cpp
+cd ITCHFlow/cpp
 ./build.sh
 
 # Or manually with CMake
