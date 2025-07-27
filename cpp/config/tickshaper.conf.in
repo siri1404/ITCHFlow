@@ -1,0 +1,34 @@
+# TickShaper Configuration File
+
+# Input ITCH data file
+input_file=@CMAKE_SOURCE_DIR@/data/sample.itch
+
+# ZeroMQ publisher endpoint
+zmq_endpoint=tcp://*:5555
+
+# Shared memory size (bytes)
+shared_memory_size=1073741824
+
+# Number of worker threads (0 = auto-detect)
+worker_threads=0
+
+# Enable CPU affinity for worker threads
+cpu_affinity=true
+
+# Default throttle rate (messages per second)
+default_throttle_rate=100000
+
+# Default replay speed multiplier
+default_replay_speed=1.0
+
+# Microburst detection threshold (messages per second)
+microburst_threshold=50000
+
+# Logging level (DEBUG, INFO, WARN, ERROR)
+log_level=INFO
+
+# Enable performance monitoring
+enable_monitoring=true
+
+# Monitoring update interval (seconds)
+monitoring_interval=1
