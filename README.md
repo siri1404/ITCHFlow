@@ -1,4 +1,4 @@
-# TickShaper - Real-Time Market Data Throttler
+# ITCHFlow - Real-Time Market Data Throttler
 
 A high-performance C++ service for ingesting, normalizing, and throttling tick-level market data from historical exchange feeds (NASDAQ ITCH format).
 
