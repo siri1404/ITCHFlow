@@ -7,7 +7,7 @@ A high-performance C++ service for ingesting, normalizing, and throttling tick-l
 TickShaper includes a modern web dashboard for real-time monitoring and control:
 
 ### Main Dashboard View
-![TickShaper Dashboard](public/Screenshot%2025-07-27%234920.png)
+![TickShaper Dashboard](public/Screenshot%202025-07-27%20234942.png)
 
 *Real-time market data processing dashboard showing throughput metrics, latency monitoring, and system performance indicators*
 
