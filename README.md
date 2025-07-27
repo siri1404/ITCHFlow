@@ -274,9 +274,6 @@ make -j$(nproc)
 ./tickshaper config/tickshaper.conf --log-level=DEBUG
 ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 
